@@ -64,11 +64,11 @@ bool isNutB_ON = false;
 
 // ---------- KALIBRASI pH (3 titik) ----------
 // Nama variabel diubah agar tidak bentrok dengan Blynk
-const float pH_V4 = 1.350;  // Tegangan untuk pH 4.0
+const float pH_V4 = 1.405;  // Tegangan untuk pH 4.0
 const float pH_PH4 = 4.00;
-const float pH_V7 = 0.874;  // Tegangan untuk pH 6.86
+const float pH_V7 = 0.933;  // Tegangan untuk pH 6.86
 const float pH_PH7 = 6.86;
-const float pH_V9 = 0.485;  // Tegangan untuk pH 9.18
+const float pH_V9 = 0.552;  // Tegangan untuk pH 9.18
 const float pH_PH9 = 9.18;
 
 // ---------- KONSTANTA TDS ----------
