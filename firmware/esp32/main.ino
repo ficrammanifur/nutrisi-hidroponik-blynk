@@ -1,9 +1,9 @@
 // =================================================================
 // 1. KONFIGURASI WIFIMANAGER & BLYNK
 // =================================================================
-#define BLYNK_TEMPLATE_ID "TMPL6ENxF696M"
-#define BLYNK_TEMPLATE_NAME "Monitoring Hidroponik"
-#define BLYNK_AUTH_TOKEN "9m6jA4bhAQCT-vRrYLtxhq-QMYnVCTBh"
+#define BLYNK_TEMPLATE_ID "Your_ID"
+#define BLYNK_TEMPLATE_NAME "Your_Project_Name"
+#define BLYNK_AUTH_TOKEN "Your_Auth_Token"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
